@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/VBran/OneDrive/Documents/personal_DS_projects/Leash-Bio---Predict-New-Medicines-with-BELKA/belka_venv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
