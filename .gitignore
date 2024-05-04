@@ -128,6 +128,11 @@ ENV/
 env.bak/
 venv.bak/
 
+# Data files
+# Ignore CSV and parquet files in data directory
+data/leash-BELKA/*.csv
+data/leash-BELKA/*.parquet
+
 # Spyder project settings
 .spyderproject
 .spyproject
